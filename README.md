@@ -38,7 +38,7 @@ Feel free to check out my repositories for more!
 ### 📫 Connect with Me:
 🌐 **GitHub:** https://github.com/Sandy16-06(#)  
 💼 **LinkedIn:** https://www.linkedin.com/in/sandeep-kumar-121a0b266/(#)  
-🐦 **Twitter/X:** [Your Twitter/X Profile](#)  
+🐦 **Twitter/X:** https://x.com/LonelySandy1606(#)  
 📷 **Instagram:** https://www.instagram.com/sandy_16_06/?hl=en(#)  
 ✉️ **Email:** sandip1606sandip@gmail.com(#)
 
