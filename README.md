@@ -1,18 +1,21 @@
-### Hi there, I'm Sandeep Kumar! 👋🚀
+### Hi there, I'm Sandeep Kumar! 👋📊
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-I'm a passionate **BCA student** with a keen interest in software development and computer networks. I have honed my skills in various programming languages and technologies, and I love building projects that solve real-world problems.
+I'm a **Data Analyst** and BCA student with hands-on experience in SQL, Power BI, Python, PySpark, Databricks, and Azure Data Factory. I love turning messy, raw data into clean pipelines, dashboards, and insights that actually drive decisions.
+
+Currently working as a **Data Analyst at Happiteks Solutions**, Bengaluru.
 
 ---
 
 ### 🚀 Skills & Technologies:
 
 ```yaml
-languages: [C, Java, HTML, CSS]
-databases: [DBMS, SQL]
-concepts: [Data Structures & Algorithms, Cloud Computing, Computer Networks]
-tools: [Git, GitHub]
+languages: [Python, Java, SQL, HTML, CSS]
+data_analytics: [Power BI, MS Excel, Statistical Analysis, Predictive Modeling]
+big_data_cloud: [PySpark, Apache Spark, Databricks, Azure Data Factory, Apache Airflow, AWS, Google Cloud, Azure]
+databases: [MySQL, Snowflake, DBMS, Data Warehousing, Data Modeling]
+tools: [Git, GitHub, ETL/ELT Pipeline Design, Data Cleaning & Validation]
 ```
 
 ---
@@ -20,43 +23,70 @@ tools: [Git, GitHub]
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandy16-06&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandy16-06&theme=radical" width="48%"/>
 </p>
 
 ---
 
+### 💼 Experience
+
+**Data Analyst** @ Happiteks Solutions, Bengaluru — *Aug 2025 – Present*
+- Analyze and query business datasets using SQL and Excel to support operational decision-making
+- Clean, validate, and transform raw data using Python and Pandas, reducing manual errors by ~30%
+- Build and maintain recurring ETL-style reports and Power BI dashboards for key business metrics
+
+---
+
 ### 🔨 Projects:
-📌 **Online Book Exchange Platform** - A platform for users to exchange books using HTML, CSS, JavaScript, and a backend.
-📌 **[Your Other Project Name]** - Brief description of your project.
-📌 **[Another Project]** - Brief description of another project.
+
+📌 **[Big Data ETL Pipeline](https://github.com/Sandy16-06)** — Distributed ETL pipelines built with PySpark on Databricks, orchestrated with Azure Data Factory, to clean, transform, and aggregate large-scale datasets into analysis-ready tables.
+
+📌 **[Online Campus Lost & Found Portal](https://lofo.free.nf/)** — Full-stack web app (PHP + MySQL) with a normalized relational schema and a secure, encrypted user authentication system. [🔗 Live Demo](https://lofo.free.nf/)
 
 Feel free to check out my repositories for more!
 
 ---
 
 ### 📫 Connect with Me:
-🌐 **GitHub:** https://github.com/Sandy16-06(#)  
-💼 **LinkedIn:** https://www.linkedin.com/in/sandeep-kumar-121a0b266/(#)  
-🐦 **Twitter/X:** https://x.com/LonelySandy1606(#)  
-📷 **Instagram:** https://www.instagram.com/sandy_16_06/?hl=en(#)  
-✉️ **Email:** sandip1606sandip@gmail.com(#)
+🌐 **GitHub:** [Sandy16-06](https://github.com/Sandy16-06)
+💼 **LinkedIn:** [sandeep-kumar](https://www.linkedin.com/in/sandeep-kumar-121a0b266/)
+🐦 **Twitter/X:** [@LonelySandy1606](https://x.com/LonelySandy1606)
+📷 **Instagram:** [sandy_16_06](https://www.instagram.com/sandy_16_06/?hl=en)
+✉️ **Email:** sandip1606sandip@gmail.com
 
 ---
 
-# 💻 Tech Stack:
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
- 
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
- </picture>
+### 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ### ⚡ Fun Fact:
-💡 "Programming is like magic, but instead of wands, we use keyboards!"
+💡 "In data we trust — everything else needs a p-value."
 
 ### 🎯 Profile Visitors:
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Sandy16-06&color=blue)
 
-⭐ **Feel free to explore my repositories and collaborate!** 🚀💻
+⭐ **Feel free to explore my repositories and collaborate!** 🚀📊
